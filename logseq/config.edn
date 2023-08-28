@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["第一章：概率与计数"]
 
  ;; Set flashcards interval.
  ;; Expected value:
