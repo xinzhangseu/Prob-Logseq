@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
-                "mode": "source",
+                "file": "pages/条件概率.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
+                "file": "pages/条件概率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
+                "file": "pages/条件概率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/第一章：概率与计数.md"
+                "file": "pages/条件概率.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   "active": "aebde52907738a89",
   "lastOpenFiles": [
     "pages/第一章：概率与计数.md",
-    "pages/网上推荐的相关[[概率论]]教材.md",
+    "pages/条件概率.md",
     "pages/概率论.md",
+    "pages/网上推荐的相关[[概率论]]教材.md",
     "pages/概率论教材文献.md",
     "pages/哈佛大学统计学课程树形图.md",
     "README.md",
@@ -183,7 +184,6 @@
     "Prob-Logseq/pages/contents.md",
     "Prob-Logseq/journals/2023_08_29.md",
     "Prob-Logseq/journals/2023_08_28.md",
-    "Prob-Logseq/journals/2023_08_07.md",
-    "Prob-Logseq/README.md"
+    "Prob-Logseq/journals/2023_08_07.md"
   ]
 }
