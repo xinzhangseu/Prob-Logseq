@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "8a31601d99b75c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0be8bce51daa5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebde52907738a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/概率论教材文献.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18e8405c9804cc36",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4fae89972645f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81efef608dd87b63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "507d3957ded89cac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c34872dec31a7d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53cc84bee1674586",
+    "type": "split",
+    "children": [
+      {
+        "id": "35326adcfae6e8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ec6f512620cd4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/概率论教材文献.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b42330391240b05e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/概率论教材文献.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ada5c200b172680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d20d2a31f5b6fa27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/概率论教材文献.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aebde52907738a89",
+  "lastOpenFiles": [
+    "pages/第一章：概率与计数.md",
+    "pages/网上推荐的相关[[概率论]]教材.md",
+    "pages/概率论教材文献.md",
+    "pages/概率论.md",
+    "pages/哈佛大学统计学课程树形图.md",
+    "README.md",
+    "pages/课程相关.md",
+    "pages/目录.md",
+    "pages/概率论教材.md",
+    "pages/contents.md",
+    "pages",
+    "logseq/bak/logseq/custom/2023-08-29T13_26_12.073Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-08-29T13_22_48.617Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-08-29T13_15_45.571Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-08-29T10_03_31.204Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-08-29T09_59_16.416Z.Desktop.css",
+    "logseq/bak/logseq/custom/2023-08-29T09_53_47.678Z.Desktop.css",
+    "logseq/bak/logseq/config/2023-08-28T07_56_38.458Z.Desktop.edn",
+    "logseq/bak/logseq/custom",
+    "logseq/bak/logseq/config",
+    "journals/2023_08_29.md",
+    "journals/2023_08_28.md",
+    "journals/2023_08_07.md",
+    "Prob-Logseq/pages/课程相关.md",
+    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md",
+    "Prob-Logseq/pages/第一章：概率与计数.md",
+    "Prob-Logseq/pages/目录.md",
+    "Prob-Logseq/pages/概率论教材文献.md",
+    "Prob-Logseq/pages/概率论教材.md",
+    "Prob-Logseq/pages/概率论.md",
+    "Prob-Logseq/pages/哈佛大学统计学课程树形图.md",
+    "Prob-Logseq/pages/contents.md",
+    "Prob-Logseq/journals/2023_08_29.md",
+    "Prob-Logseq/journals/2023_08_28.md",
+    "Prob-Logseq/journals/2023_08_07.md",
+    "Prob-Logseq/README.md"
+  ]
+}
