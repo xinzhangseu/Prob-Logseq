@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
+                "file": "pages/条件概率.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
+                "file": "pages/条件概率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/第一章：概率与计数.md",
+                "file": "pages/条件概率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/第一章：概率与计数.md"
+                "file": "pages/条件概率.md"
               }
             }
           }
@@ -143,21 +144,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
   "active": "aebde52907738a89",
   "lastOpenFiles": [
-    "pages/条件概率.md",
     "pages/第一章：概率与计数.md",
-    "pages/网上推荐的相关[[概率论]]教材.md",
+    "pages/概率论教材.md",
     "pages/概率论.md",
+    "journals/2023_08_29.md",
+    "journals/2023_08_28.md",
+    "journals/2023_08_07.md",
+    "pages/条件概率.md",
+    "pages/网上推荐的相关[[概率论]]教材.md",
     "pages/概率论教材文献.md",
     "pages/哈佛大学统计学课程树形图.md",
     "README.md",
     "pages/课程相关.md",
     "pages/目录.md",
-    "pages/概率论教材.md",
     "pages/contents.md",
     "pages",
     "logseq/bak/logseq/custom/2023-08-29T13_26_12.073Z.Desktop.css",
@@ -169,9 +175,6 @@
     "logseq/bak/logseq/config/2023-08-28T07_56_38.458Z.Desktop.edn",
     "logseq/bak/logseq/custom",
     "logseq/bak/logseq/config",
-    "journals/2023_08_29.md",
-    "journals/2023_08_28.md",
-    "journals/2023_08_07.md",
     "Prob-Logseq/pages/课程相关.md",
     "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md",
     "Prob-Logseq/pages/第一章：概率与计数.md",
