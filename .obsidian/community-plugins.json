@@ -1,10 +1,11 @@
 [
-  "obsidian-git",
   "obsidian-latex-suite",
   "obsidian-latex",
   "mathlinks",
   "obsidian42-brat",
   "math-booster",
   "dataview",
-  "obsidian42-text-transporter"
+  "obsidian42-text-transporter",
+  "obsidian-git",
+  "number-headings-obsidian"
 ]
