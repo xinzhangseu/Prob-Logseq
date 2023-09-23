@@ -60,8 +60,39 @@
           }
         }
       },
-      "日本語": {
-        "id": "日本語",
+      "中文": {
+        "id": "中文",
+        "meta": {
+          "tags": [
+            "cn"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "公理",
+            "definition": "定义",
+            "lemma": "引理",
+            "proposition": "命题",
+            "theorem": "定理",
+            "corollary": "推论",
+            "claim": "主张",
+            "assumption": "假设",
+            "example": "例",
+            "exercise": "练习",
+            "conjecture": "猜想",
+            "hypothesis": "假说",
+            "remark": "注"
+          },
+          "proof": {
+            "begin": "证明",
+            "end": "□",
+            "linkedBeginPrefix": "",
+            "linkedBeginSuffix": "证明"
+          }
+        }
+      },
+      "Copy of 日本語": {
+        "id": "Copy of 日本語",
         "meta": {
           "tags": [
             "ja"
