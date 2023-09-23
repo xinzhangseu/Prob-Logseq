@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/课程相关.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/课程相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/课程相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "pages/课程相关.md"
               }
             }
           },
@@ -175,11 +175,12 @@
   },
   "active": "87415713610b30a2",
   "lastOpenFiles": [
+    "pages/概率论讲义.md",
+    "Templates",
     "templates",
     "untitled folder",
     "pages/概率论教材.md",
     "pages/概率论.md",
-    "pages/概率论讲义.md",
     "pages/网上推荐的相关[[概率论]]教材.md",
     "pages/条件概率.md",
     "pages/概率论教材文献.md",
@@ -198,8 +199,6 @@
     "logseq/bak/logseq/custom/2023-08-29T10_03_31.204Z.Desktop.css",
     "logseq/bak/logseq/custom/2023-08-29T09_59_16.416Z.Desktop.css",
     "logseq/bak/logseq/custom/2023-08-29T09_53_47.678Z.Desktop.css",
-    "logseq/bak/logseq/config/2023-08-28T07_56_38.458Z.Desktop.edn",
-    "logseq/bak/logseq/custom",
     "Prob-Logseq/pages/课程相关.md",
     "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md",
     "Prob-Logseq/pages/第一章：概率与计数.md",
