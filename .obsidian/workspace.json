@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/课程相关.md",
+                "file": "pages/概率论讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/课程相关.md",
+                "file": "pages/概率论讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/课程相关.md",
+                "file": "pages/概率论讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/课程相关.md"
+                "file": "pages/概率论讲义.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "87415713610b30a2",
   "lastOpenFiles": [
+    "pages/课程相关.md",
     "pages/概率论讲义.md",
     "Templates",
     "templates",
@@ -184,7 +185,6 @@
     "pages/网上推荐的相关[[概率论]]教材.md",
     "pages/条件概率.md",
     "pages/概率论教材文献.md",
-    "pages/课程相关.md",
     "pages/contents.md",
     "pages/哈佛大学统计学课程树形图.md",
     "journals/2023_08_29.md",
