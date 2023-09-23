@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87415713610b30a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/概率论讲义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +159,7 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "87415713610b30a2",
+  "active": "5427d5ed4bb930ac",
   "lastOpenFiles": [
     "pages/课程相关.md",
     "pages/概率论讲义.md",
