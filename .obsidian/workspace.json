@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8133601e3031e9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/概率论讲义.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81efef608dd87b63",
+  "active": "8133601e3031e9c1",
   "lastOpenFiles": [
+    "pages/Untitled.md",
     "pages/概率论讲义.md",
     "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
@@ -196,7 +211,6 @@
     "Prob-Logseq/pages/概率论教材.md",
     "Prob-Logseq/pages/概率论.md",
     "Prob-Logseq/pages/哈佛大学统计学课程树形图.md",
-    "Prob-Logseq/pages/contents.md",
-    "Prob-Logseq/journals/2023_08_29.md"
+    "Prob-Logseq/pages/contents.md"
   ]
 }
