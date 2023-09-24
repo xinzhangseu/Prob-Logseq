@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8133601e3031e9c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/概率论讲义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8133601e3031e9c1",
+  "active": "da01399f1982a5d2",
   "lastOpenFiles": [
     "pages/Untitled.md",
     "pages/概率论讲义.md",
