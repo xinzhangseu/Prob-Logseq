@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Draft for Prob.md"
+                "file": "pages/概率论讲义.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da01399f1982a5d2",
+  "active": "81efef608dd87b63",
   "lastOpenFiles": [
-    "pages/概率论讲义.md",
     "pages/Draft for Prob.md",
+    "pages/概率论讲义.md",
     "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
     "pages/第一章：概率与计数.md",
