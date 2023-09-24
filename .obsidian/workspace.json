@@ -155,9 +155,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "c807db1032a3789c",
