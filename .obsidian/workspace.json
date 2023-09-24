@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0be8bce51daa5e4",
+        "id": "018f12b38623465f",
         "type": "tabs",
         "children": [
           {
-            "id": "aebde52907738a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/概率论讲义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac2478e264a1a134",
+            "id": "c807db1032a3789c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,12 +16,12 @@
             }
           },
           {
-            "id": "c1c065685c3fd7b6",
+            "id": "2dd57cf6a0c14fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -162,11 +149,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +169,9 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "81efef608dd87b63",
+  "active": "2dd57cf6a0c14fcc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "pages/概率论讲义.md",
     "pages/条件概率.md",
     "pages/第一章：概率与计数.md",
@@ -216,7 +206,6 @@
     "Prob-Logseq/pages/概率论.md",
     "Prob-Logseq/pages/哈佛大学统计学课程树形图.md",
     "Prob-Logseq/pages/contents.md",
-    "Prob-Logseq/journals/2023_08_29.md",
-    "Prob-Logseq/journals/2023_08_28.md"
+    "Prob-Logseq/journals/2023_08_29.md"
   ]
 }
