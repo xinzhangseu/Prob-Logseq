@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "pages/Draft for Prob.md"
               }
             }
           },
@@ -139,6 +139,14 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9528bc5073139478",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,6 +157,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marp:Marp: Open Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Week plan": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,9 +172,10 @@
   },
   "active": "5427d5ed4bb930ac",
   "lastOpenFiles": [
+    "pages/哈佛大学统计学课程树形图.md",
+    "pages/概率论讲义.md",
     "pages/Draft for Prob.md",
     "pages/概率论教材文献.md",
-    "pages/概率论讲义.md",
     "pages/课程相关.md",
     "Templates",
     "templates",
@@ -173,7 +185,6 @@
     "pages/网上推荐的相关[[概率论]]教材.md",
     "pages/条件概率.md",
     "pages/contents.md",
-    "pages/哈佛大学统计学课程树形图.md",
     "journals/2023_08_29.md",
     "journals/2023_08_28.md",
     "journals/2023_08_07.md",
