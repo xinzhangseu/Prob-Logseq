@@ -48,7 +48,11 @@
     ],
     [
       "¥¥|",
-      "$|$"
+      " $|$"
+    ],
+    [
+      "、|",
+      "\\|"
     ]
   ],
   "userSelRuleSettingsOpen": true,
