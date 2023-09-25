@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Draft for Prob.md",
+                "file": "pages/概率论讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Draft for Prob.md"
+                "file": "pages/概率论讲义.md"
               }
             }
           },
@@ -170,11 +170,11 @@
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false
     }
   },
-  "active": "5427d5ed4bb930ac",
+  "active": "81efef608dd87b63",
   "lastOpenFiles": [
+    "pages/Draft for Prob.md",
     "pages/哈佛大学统计学课程树形图.md",
     "pages/概率论讲义.md",
-    "pages/Draft for Prob.md",
     "pages/概率论教材文献.md",
     "pages/课程相关.md",
     "Templates",
