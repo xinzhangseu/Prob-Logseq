@@ -26,9 +26,9 @@
       "insertSpace": true
     },
     "pages/概率论讲义.md": {
-      "mathCalloutStyle": "MathWiki",
       "profile": "中文",
-      "noteMathLinkFormat": "[title] ([type] [number]) if title exists, [type] [number] otherwise"
+      "noteMathLinkFormat": "[title] ([type] [number]) if title exists, [type] [number] otherwise",
+      "mathCalloutStyle": "Plain"
     }
   },
   "extraSettings": {
