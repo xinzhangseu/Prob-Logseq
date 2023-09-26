@@ -24,6 +24,10 @@
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
       "insertSpace": true
+    },
+    "pages/概率论讲义.md": {
+      "mathCalloutStyle": "MathWiki",
+      "profile": "中文"
     }
   },
   "extraSettings": {
