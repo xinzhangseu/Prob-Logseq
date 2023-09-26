@@ -27,7 +27,8 @@
     },
     "pages/概率论讲义.md": {
       "mathCalloutStyle": "MathWiki",
-      "profile": "中文"
+      "profile": "中文",
+      "noteMathLinkFormat": "[title] ([type] [number]) if title exists, [type] [number] otherwise"
     }
   },
   "extraSettings": {
