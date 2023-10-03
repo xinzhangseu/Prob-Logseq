@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53cc84bee1674586",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "pages/L03.md"
               }
             }
           },
@@ -168,13 +167,15 @@
       "command-palette:Open command palette": false,
       "marp:Marp: Open Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
-    "pages/概率论.md",
     "pages/概率论讲义.md",
+    "pages/L03.md",
+    "pages/概率论.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
@@ -207,7 +208,6 @@
     "Prob-Logseq/pages/概率论教材文献.md",
     "Prob-Logseq/pages/概率论教材.md",
     "Prob-Logseq/pages/概率论.md",
-    "Prob-Logseq/pages/哈佛大学统计学课程树形图.md",
-    "Prob-Logseq/pages/contents.md"
+    "Prob-Logseq/pages/哈佛大学统计学课程树形图.md"
   ]
 }
