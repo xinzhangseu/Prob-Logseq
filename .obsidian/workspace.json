@@ -13,11 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa82a4850cbe7b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f692037f08bb8f",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/L03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "pages/L03.md"
               }
             }
           },
@@ -153,12 +167,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian42-brat:BRAT": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "switcher:Open quick switcher": false,
@@ -169,14 +181,15 @@
       "command-palette:Open command palette": false,
       "marp:Marp: Open Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
     "pages/L04.md",
-    "pages/L03.md",
     "pages/概率论讲义.md",
+    "pages/L03.md",
     "pages/概率论.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
