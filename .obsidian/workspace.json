@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "pages/L04.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -172,7 +172,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "e04868c9c344f3ca",
+  "active": "da01399f1982a5d2",
   "lastOpenFiles": [
     "pages/L03.md",
     "pages/L04.md",
