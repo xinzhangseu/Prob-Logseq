@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/L03.md"
+                "file": "pages/L04.md"
               }
             }
           },
@@ -185,8 +185,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2fc2a96c1ebed9b2",
+  "active": "81efef608dd87b63",
   "lastOpenFiles": [
+    "pages/L03.md",
     "export/L03/plugin/chalkboard/README.md",
     "export/L03/plugin/chalkboard/_style.css",
     "export/L03/plugin/chalkboard/img/blackboard.png",
@@ -214,7 +215,6 @@
     "export/L03/plugin/menu/README.md",
     "pages/L04.md",
     "pages/概率论讲义.md",
-    "pages/L03.md",
     "pages/概率论.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
