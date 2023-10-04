@@ -23,11 +23,11 @@
         ]
       },
       {
-        "id": "b578f09ae94b1d13",
+        "id": "a65d928381dafb5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc2a96c1ebed9b2",
+            "id": "e8d6e991fcc621ea",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -185,7 +185,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81efef608dd87b63",
+  "active": "da01399f1982a5d2",
   "lastOpenFiles": [
     "pages/L03.md",
     "export/L03/plugin/chalkboard/README.md",
