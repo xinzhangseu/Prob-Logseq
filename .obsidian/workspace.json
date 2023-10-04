@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/L03.md",
+                "file": "pages/L04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/L03.md"
+                "file": "pages/L04.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
-    "pages/概率论讲义.md",
     "pages/L03.md",
+    "pages/L04.md",
+    "pages/概率论讲义.md",
     "pages/概率论.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
@@ -221,7 +222,6 @@
     "Prob-Logseq/pages/目录.md",
     "Prob-Logseq/pages/概率论教材文献.md",
     "Prob-Logseq/pages/概率论教材.md",
-    "Prob-Logseq/pages/概率论.md",
-    "Prob-Logseq/pages/哈佛大学统计学课程树形图.md"
+    "Prob-Logseq/pages/概率论.md"
   ]
 }
