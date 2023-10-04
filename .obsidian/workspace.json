@@ -21,6 +21,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "b578f09ae94b1d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc2a96c1ebed9b2",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,8 +185,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "da01399f1982a5d2",
+  "active": "2fc2a96c1ebed9b2",
   "lastOpenFiles": [
+    "export/L03/plugin/chalkboard/README.md",
+    "export/L03/plugin/chalkboard/_style.css",
+    "export/L03/plugin/chalkboard/img/blackboard.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-black.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-green.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-red.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/L03/plugin/chalkboard/img/chalk-blue.png",
+    "export/L03/plugin/chalkboard/img/chalk-green.png",
+    "export/L03/plugin/chalkboard/img",
+    "export/L03/plugin/chalkboard/style.css",
+    "export/L03/plugin/chalkboard/plugin.js",
+    "export/L03/plugin/chalkboard/plugin (copy).js",
+    "export/L03/plugin/chalkboard",
+    "export/L03/plugin/chart/plugin.js",
+    "export/L03/plugin/chart/chart.min.js",
+    "export/L03/plugin/chart/README.md",
+    "export/L03/plugin/chart",
+    "export/L03/plugin/customcontrols/style.css",
+    "export/L03/plugin/customcontrols/README.md",
+    "export/L03/plugin/menu/CONTRIBUTING.md",
+    "export/L03/plugin/menu/README.md",
     "pages/L04.md",
     "pages/概率论讲义.md",
     "pages/L03.md",
@@ -192,22 +231,7 @@
     "pages/课程相关.md",
     "pages/目录.md",
     "pages/contents.md",
-    "pages",
-    "logseq/bak/logseq/custom/2023-08-29T13_26_12.073Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-08-29T13_22_48.617Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-08-29T13_15_45.571Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-08-29T10_03_31.204Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-08-29T09_59_16.416Z.Desktop.css",
-    "logseq/bak/logseq/custom/2023-08-29T09_53_47.678Z.Desktop.css",
-    "logseq/bak/logseq/config/2023-08-28T07_56_38.458Z.Desktop.edn",
-    "logseq/bak/logseq/custom",
-    "logseq/bak/logseq/config",
     "Prob-Logseq/pages/课程相关.md",
-    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md",
-    "Prob-Logseq/pages/第一章：概率与计数.md",
-    "Prob-Logseq/pages/目录.md",
-    "Prob-Logseq/pages/概率论教材文献.md",
-    "Prob-Logseq/pages/概率论教材.md",
-    "Prob-Logseq/pages/概率论.md"
+    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md"
   ]
 }
