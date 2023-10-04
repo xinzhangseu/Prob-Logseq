@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/L03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -23,11 +23,11 @@
         ]
       },
       {
-        "id": "69147d82d7d3157e",
+        "id": "ea3cfecf11ec9ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "28c5dbec2f45bcd8",
+            "id": "7f960280cfc12e33",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/L03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/L03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/L04.md"
+                "file": "pages/L03.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
-    "pages/L03.md",
     "pages/L04.md",
+    "pages/L03.md",
     "pages/概率论讲义.md",
     "pages/概率论.md",
     "pages/Draft for Prob.md",
