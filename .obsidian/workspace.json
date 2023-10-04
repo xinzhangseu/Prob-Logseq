@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +172,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "da01399f1982a5d2",
+  "active": "e04868c9c344f3ca",
   "lastOpenFiles": [
     "pages/L03.md",
     "pages/L04.md",
