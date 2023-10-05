@@ -1,9 +1,29 @@
 {
   "callouts": {
-    "custom": [
-      "Theorem"
-    ],
-    "settings": {}
+    "custom": [],
+    "settings": {
+      "example": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "180,142,173"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "180,142,173"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
