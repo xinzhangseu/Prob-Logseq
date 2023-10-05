@@ -10,9 +10,7 @@
           "condition": {
             "colorScheme": "light"
           },
-          "changes": {
-            "color": "180,142,173"
-          }
+          "changes": {}
         },
         {
           "condition": {
