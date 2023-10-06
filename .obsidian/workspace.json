@@ -13,25 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/概率论讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1eb5edb295426ea8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85e656291b27b450",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/概率论讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/L04.md",
+                "file": "pages/概率论讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/L04.md"
+                "file": "pages/概率论讲义.md"
               }
             }
           },
@@ -167,10 +153,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian42-brat:BRAT": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "switcher:Open quick switcher": false,
@@ -181,39 +169,37 @@
       "command-palette:Open command palette": false,
       "marp:Marp: Open Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Week plan": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-day-planner:Week plan": false
     }
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
-    "pages/L03.md",
-    "export/L03/plugin/chalkboard/README.md",
-    "export/L03/plugin/chalkboard/_style.css",
-    "export/L03/plugin/chalkboard/img/blackboard.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-black.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-green.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-red.png",
-    "export/L03/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/L03/plugin/chalkboard/img/chalk-blue.png",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/woff-v2",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts/tex.js",
+    "export/L03/plugin/math/mathjax/output/chtml/fonts",
+    "export/L03/plugin/chalkboard/img/chalk-yellow.png",
+    "export/L03/plugin/chalkboard/img/whiteboard.png",
+    "export/L03/plugin/chalkboard/img/sponge.png",
+    "export/L03/plugin/chalkboard/img/chalk-white.png",
+    "export/L03/plugin/chalkboard/img/chalk-red.png",
+    "export/L03/plugin/chalkboard/img/chalk-purple.png",
+    "export/L03/plugin/chalkboard/img/chalk-orange.png",
     "export/L03/plugin/chalkboard/img/chalk-green.png",
-    "export/L03/plugin/chalkboard/img",
-    "export/L03/plugin/chalkboard/style.css",
-    "export/L03/plugin/chalkboard/plugin.js",
-    "export/L03/plugin/chalkboard/plugin (copy).js",
-    "export/L03/plugin/chalkboard",
-    "export/L03/plugin/chart/plugin.js",
-    "export/L03/plugin/chart/chart.min.js",
-    "export/L03/plugin/chart/README.md",
-    "export/L03/plugin/chart",
-    "export/L03/plugin/customcontrols/style.css",
+    "export/L03/plugin/chalkboard/img/chalk-blue.png",
+    "export/L03/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/L03/plugin/customcontrols/README.md",
-    "export/L03/plugin/menu/CONTRIBUTING.md",
-    "export/L03/plugin/menu/README.md",
+    "export/L03/plugin/chart/README.md",
+    "export/L03/plugin/chalkboard/README.md",
     "pages/L04.md",
+    "pages/L03.md",
     "pages/概率论讲义.md",
     "pages/概率论.md",
     "pages/Draft for Prob.md",
@@ -232,6 +218,7 @@
     "pages/目录.md",
     "pages/contents.md",
     "Prob-Logseq/pages/课程相关.md",
-    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md"
+    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md",
+    "Prob-Logseq/pages/第一章：概率与计数.md"
   ]
 }
