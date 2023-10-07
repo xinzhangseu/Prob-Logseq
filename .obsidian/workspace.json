@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53cc84bee1674586",
@@ -153,12 +154,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian42-brat:BRAT": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "switcher:Open quick switcher": false,
@@ -174,6 +173,8 @@
   },
   "active": "da01399f1982a5d2",
   "lastOpenFiles": [
+    "pages/L04.md",
+    "pages/L03.md",
     "export/L03/plugin/zoom/zoom.js",
     "export/L03/plugin/zoom/zoom.esm.js",
     "export/L03/plugin/zoom/plugin.js",
@@ -184,12 +185,11 @@
     "export/L03/plugin/search",
     "export/L03/plugin/reveal-pointer/pointer.js",
     "export/L03/plugin/reveal-pointer/pointer.css",
-    "export/L03/plugin/reveal-pointer",
     "export/L03/plugin/menu/README.md",
     "export/L03/plugin/menu/CONTRIBUTING.md",
-    "export/L03/plugin/chalkboard/img/chalk-yellow.png",
     "export/L03/plugin/chalkboard/img/whiteboard.png",
     "export/L03/plugin/chalkboard/img/sponge.png",
+    "export/L03/plugin/chalkboard/img/chalk-yellow.png",
     "export/L03/plugin/chalkboard/img/chalk-white.png",
     "export/L03/plugin/chalkboard/img/chalk-red.png",
     "export/L03/plugin/chalkboard/img/chalk-purple.png",
@@ -200,10 +200,8 @@
     "export/L03/plugin/customcontrols/README.md",
     "export/L03/plugin/chart/README.md",
     "export/L03/plugin/chalkboard/README.md",
-    "pages/L04.md",
-    "pages/L03.md",
-    "pages/概率论讲义.md",
     "pages/概率论.md",
+    "pages/概率论讲义.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
@@ -219,6 +217,7 @@
     "pages/课程相关.md",
     "pages/目录.md",
     "pages/contents.md",
-    "Prob-Logseq/pages/课程相关.md"
+    "Prob-Logseq/pages/课程相关.md",
+    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md"
   ]
 }
