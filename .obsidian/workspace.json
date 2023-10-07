@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/概率论讲义.md",
+                "file": "pages/Draft for Prob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/概率论讲义.md"
+                "file": "pages/Draft for Prob.md"
               }
             }
           },
@@ -173,9 +173,9 @@
   },
   "active": "f6dd76ac9ce8e63b",
   "lastOpenFiles": [
+    "pages/L03.md",
     "pages/概率论讲义.md",
     "pages/L04.md",
-    "pages/L03.md",
     "export/L03/plugin/zoom/zoom.js",
     "export/L03/plugin/zoom/zoom.esm.js",
     "export/L03/plugin/zoom/plugin.js",
