@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a2e9d5eb665961",
+        "id": "7840efe13bf371f4",
         "type": "tabs",
         "children": [
           {
-            "id": "da01399f1982a5d2",
+            "id": "f6dd76ac9ce8e63b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53cc84bee1674586",
@@ -172,8 +171,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "da01399f1982a5d2",
+  "active": "f6dd76ac9ce8e63b",
   "lastOpenFiles": [
+    "pages/概率论讲义.md",
     "pages/L04.md",
     "pages/L03.md",
     "export/L03/plugin/zoom/zoom.js",
@@ -202,7 +202,6 @@
     "export/L03/plugin/chart/README.md",
     "export/L03/plugin/chalkboard/README.md",
     "pages/概率论.md",
-    "pages/概率论讲义.md",
     "pages/Draft for Prob.md",
     "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
