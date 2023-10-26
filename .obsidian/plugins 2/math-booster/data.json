@@ -1,0 +1,143 @@
+{
+  "version": "0.6.11",
+  "settings": {
+    "/": {
+      "profile": "中文",
+      "titleSuffix": ".",
+      "numberPrefix": "",
+      "numberSuffix": "",
+      "numberInit": 1,
+      "numberStyle": "arabic",
+      "numberDefault": "auto",
+      "refFormat": "[title] ([type] [number]) if title exists, [type] [number] otherwise",
+      "noteMathLinkFormat": "[type] [number] ([title])",
+      "eqNumberPrefix": "",
+      "eqNumberSuffix": "",
+      "eqNumberInit": 1,
+      "eqNumberStyle": "arabic",
+      "eqRefPrefix": "",
+      "eqRefSuffix": "",
+      "labelPrefix": "",
+      "lineByLine": true,
+      "mathCalloutStyle": "Framed",
+      "mathCalloutFontInherit": false,
+      "beginProof": "\\begin{proof}",
+      "endProof": "\\end{proof}",
+      "insertSpace": true
+    },
+    "pages/概率论讲义.md": {
+      "profile": "中文",
+      "noteMathLinkFormat": "[title] ([type] [number]) if title exists, [type] [number] otherwise",
+      "mathCalloutStyle": "Framed"
+    }
+  },
+  "extraSettings": {
+    "noteTitleInLink": true,
+    "profiles": {
+      "English": {
+        "id": "English",
+        "meta": {
+          "tags": [
+            "en"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "Axiom",
+            "definition": "Definition",
+            "lemma": "Lemma",
+            "proposition": "Proposition",
+            "theorem": "Theorem",
+            "corollary": "Corollary",
+            "claim": "Claim",
+            "assumption": "Assumption",
+            "example": "Example",
+            "exercise": "Exercise",
+            "conjecture": "Conjecture",
+            "hypothesis": "Hypothesis",
+            "remark": "Remark"
+          },
+          "proof": {
+            "begin": "Proof.",
+            "end": "□",
+            "linkedBeginPrefix": "Proof of ",
+            "linkedBeginSuffix": "."
+          }
+        }
+      },
+      "中文": {
+        "id": "中文",
+        "meta": {
+          "tags": [
+            "cn"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "公理",
+            "definition": "定义",
+            "lemma": "引理",
+            "proposition": "命题",
+            "theorem": "定理",
+            "corollary": "推论",
+            "claim": "主张",
+            "assumption": "假设",
+            "example": "例",
+            "exercise": "练习",
+            "conjecture": "猜想",
+            "hypothesis": "假说",
+            "remark": "注"
+          },
+          "proof": {
+            "begin": "证明",
+            "end": "□",
+            "linkedBeginPrefix": "",
+            "linkedBeginSuffix": "证明"
+          }
+        }
+      },
+      "日本語": {
+        "id": "日本語",
+        "meta": {
+          "tags": [
+            "ja"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "公理",
+            "definition": "定義",
+            "lemma": "補題",
+            "proposition": "命題",
+            "theorem": "定理",
+            "corollary": "系",
+            "claim": "主張",
+            "assumption": "仮定",
+            "example": "例",
+            "exercise": "演習問題",
+            "conjecture": "予想",
+            "hypothesis": "仮説",
+            "remark": "注"
+          },
+          "proof": {
+            "begin": "証明.",
+            "end": "□",
+            "linkedBeginPrefix": "",
+            "linkedBeginSuffix": "の証明."
+          }
+        }
+      }
+    },
+    "triggerSuggest": "\\ref",
+    "triggerTheoremSuggest": "\\tref",
+    "triggerEquationSuggest": "\\eqref",
+    "renderMathInSuggestion": true,
+    "searchMethod": "Fuzzy",
+    "upWeightRecent": 0.1,
+    "searchOnlyRecent": false,
+    "modifierToJump": "Mod",
+    "suggestLeafOption": "Split right",
+    "backlinkLeafOption": "Split right"
+  },
+  "excludedFiles": []
+}
