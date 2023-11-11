@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f947ed4a5c80bb5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +171,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9f947ed4a5c80bb5",
+  "active": "f6dd76ac9ce8e63b",
   "lastOpenFiles": [
     "pages/Draft for Prob.md",
     "pages/L03.md",
