@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0de0d3ff51acb913",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -171,7 +184,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f6dd76ac9ce8e63b",
+  "active": "0de0d3ff51acb913",
   "lastOpenFiles": [
     "pages/Draft for Prob.md",
     "pages/L03.md",
