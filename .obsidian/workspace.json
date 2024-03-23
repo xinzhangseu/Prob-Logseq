@@ -29,9 +29,19 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "de18ba54ae499097",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0de0d3ff51acb913",
+  "active": "de18ba54ae499097",
   "lastOpenFiles": [
     "pages/Draft for Prob.md",
     "pages/L03.md",
