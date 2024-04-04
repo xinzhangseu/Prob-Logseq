@@ -4,44 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7840efe13bf371f4",
+        "id": "09c4f4b5dd0f2f53",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dd76ac9ce8e63b",
+            "id": "b057618a94661162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "pages/L03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de0d3ff51acb913",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "ee01770ccddc364c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/L03.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/L03.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/L03.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -170,9 +151,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "52c1df0a1600af21",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,10 +183,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ee01770ccddc364c",
+  "active": "b057618a94661162",
   "lastOpenFiles": [
-    "pages/Draft for Prob.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "journals/2024_04_04.md",
     "pages/L03.md",
+    "pages/Draft for Prob.md",
     "pages/概率论讲义.md",
     "pages/L04.md",
     "export/L03/plugin/zoom/zoom.js",
@@ -226,7 +219,6 @@
     "export/L03/plugin/chart/README.md",
     "export/L03/plugin/chalkboard/README.md",
     "pages/概率论.md",
-    "conflict-files-obsidian-git.md",
     "pages/条件概率.md",
     "pages/第一章：概率与计数.md",
     "pages/概率论教材.md",
@@ -239,8 +231,6 @@
     "README.md",
     "pages/课程相关.md",
     "pages/目录.md",
-    "pages/contents.md",
-    "Prob-Logseq/pages/课程相关.md",
-    "Prob-Logseq/pages/网上推荐的相关[[概率论]]教材.md"
+    "pages/contents.md"
   ]
 }
